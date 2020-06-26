@@ -31,6 +31,10 @@ Nhúng file .css vào trong file index.html
 
 ## Tổng hợp kiến thức
 
+> Học cách cài đặt Bootstrap thông qua npm
+
+#
+
 > Chỉnh sửa giá trị mặc định của Boostrap
 
 #
