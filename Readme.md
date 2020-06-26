@@ -44,3 +44,24 @@ Nhúng file .css vào trong file index.html
 #
 
 > Ôn tập một chút kiến thức về SASS --> tạo file \_style.scss và dẫn vào trong file chính main.scss để sử dụng.
+
+# Học cách deploy dự án lên trên Netlify
+
+> https://www.youtube.com/watch?v=bjVUqvcCnxM&t=960s
+
+#
+
+> Đưa file dự án lên Github sau đó kết nối tới Netlify.
+
+#
+
+> Thay đổi tên domain cho website bằng cách tạo hai bản ghi
+
+```
+Tên @ - Loại A - Dữ liệu 104.198.14.52
+
+Tên www - Loại CNAME - dữ liệu là đường link đến Netlify của website ví dụ :
+compassionate-panini-35e65b.netlify.app.
+```
+
+> Thiết lập HTTPS ở cùng trang với thiết lập domain.
